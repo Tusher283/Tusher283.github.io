@@ -1,0 +1,28 @@
+
+body{
+	background-image: url(road.jpg);
+	background-size: cover;
+}
+html{
+	height: 100%;
+	widows: 100%;
+}
+h1{
+	color: rgba(300, 0, 0, 0.5);
+	text-align: center;
+	cursor: pointer;
+	font-size: 50px;
+}
+p{
+	color: green;
+	font-size: 20px;
+}
+li
+{
+	list-style: none;
+	color: blue;
+	display: inline-block;
+}
+.btn{
+
+}
